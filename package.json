@@ -1,0 +1,15 @@
+{
+  "name": "kira-on-bot",
+  "version": "2.5.0",
+  "description": "Bot WhatsApp KIRA_ON_BOT pour Render",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.9",
+    "@hapi/boom": "^10.0.1",
+    "axios": "^1.7.9",
+    "pino": "^9.6.0"
+  }
+}
